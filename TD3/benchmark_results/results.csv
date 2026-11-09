@@ -1,0 +1,15 @@
+algorithm,move,score,nodes_explored,time,configuration
+minimax,3,3,8,0.000835,Depth 1
+alphabeta,3,3,8,0.00081,Depth 1
+minimax,3,3,57,0.005802,Depth 2
+alphabeta,3,3,27,0.002445,Depth 2
+minimax,3,8,400,0.038639,Depth 3
+alphabeta,3,8,182,0.018276,Depth 3
+minimax,3,6,2801,0.258019,Depth 4
+alphabeta,3,6,419,0.038355,Depth 4
+minimax,3,12,19608,1.900911,Depth 5
+alphabeta,3,12,2988,0.282984,Depth 5
+mcts,2,0.75,101,0.16661,100 simulations
+mcts,2,0.6574,501,0.828793,500 simulations
+mcts,3,0.668,1001,1.709725,1000 simulations
+mcts,3,0.6604,2001,3.547633,2000 simulations
